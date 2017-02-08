@@ -13,15 +13,15 @@ h1 {
   font-family: cursive;
 }
 
-
 p.intro {
-
+    text-align: justify;
+    width: 50%;
 }
 
-p.meat{
-
+p.meat {
+    color: green;
 }
 
-p.closing{
-
+p.closing {
+    font-family: sans-serif;
 }
