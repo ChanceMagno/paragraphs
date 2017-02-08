@@ -25,3 +25,7 @@ p.meat {
 p.closing {
     font-family: sans-serif;
 }
+
+p.best {
+  color: gold;
+}
