@@ -3,7 +3,7 @@ body {
 }
 
 .flashy {
-  color: blue;
+  color: red;
   font-style: italic;
 }
 
@@ -19,7 +19,7 @@ p.intro {
 }
 
 p.meat {
-    color: green;
+    color: blue;
 }
 
 p.closing {
